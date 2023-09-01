@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-0 /Users/iwomi/.gradle/caches/transforms-3/3a1d82170206c255b405230809df3825/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-1 /Users/iwomi/.gradle/caches/transforms-3/3fa95eefcb13c8e49eaa1a0343f9b9d3/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-2 /Users/iwomi/.gradle/caches/transforms-3/4c3f9a3b498397c7cd2342d37c172fb5/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.3.3-3 /Users/iwomi/.gradle/caches/transforms-3/64b3521dabb480b069dcfd4aa8def27b/transformed/jetified-firebase-common-20.3.3/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-4 /Users/iwomi/.gradle/caches/transforms-3/94525a27a8a93494aad80754e9958e91/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-5 /Users/iwomi/.gradle/caches/transforms-3/af1c7aadde0b4756d0438e5d0f67b503/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-6 /Users/iwomi/.gradle/caches/transforms-3/d778d8a9c2d3c55e9107a56f76fbac1e/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 /Users/iwomi/.pub-cache/hosted/pub.dev/cloud_firestore-4.8.4/android/src/main/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 /Users/iwomi/.pub-cache/hosted/pub.dev/cloud_firestore-4.8.4/android/src/release/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/cloud_firestore/generated/res/pngs/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/cloud_firestore/generated/res/resValues/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/cloud_firestore/generated/res/rs/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/cloud_firestore/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/cloud_firestore/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/cloud_firestore/intermediates/merged_res/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/firebase_core/intermediates/packaged_res/release

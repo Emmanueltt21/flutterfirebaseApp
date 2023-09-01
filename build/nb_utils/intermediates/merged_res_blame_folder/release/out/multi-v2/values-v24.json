@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nb.nb_utils-merged_res-22:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/iwomi/.gradle/caches/transforms-3/41f1c93b4d321e140d3aeaf90a078c09/transformed/appcompat-1.4.2/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.nb.nb_utils-mergeReleaseResources-20:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/iwomi/.gradle/caches/transforms-3/41f1c93b4d321e140d3aeaf90a078c09/transformed/appcompat-1.4.2/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

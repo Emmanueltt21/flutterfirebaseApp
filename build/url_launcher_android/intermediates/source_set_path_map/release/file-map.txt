@@ -1,0 +1,12 @@
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-java-1.0.0-beta04-0 /Users/iwomi/.gradle/caches/transforms-3/4c3f9a3b498397c7cd2342d37c172fb5/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-annotation-experimental-1.1.0-1 /Users/iwomi/.gradle/caches/transforms-3/94525a27a8a93494aad80754e9958e91/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-1.0.0-beta04-2 /Users/iwomi/.gradle/caches/transforms-3/af1c7aadde0b4756d0438e5d0f67b503/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.urllauncher.url_launcher_android-core-1.6.0-3 /Users/iwomi/.gradle/caches/transforms-3/d778d8a9c2d3c55e9107a56f76fbac1e/transformed/core-1.6.0/res
+io.flutter.plugins.urllauncher.url_launcher_android-main-4 /Users/iwomi/.pub-cache/hosted/pub.dev/url_launcher_android-6.0.37/android/src/main/res
+io.flutter.plugins.urllauncher.url_launcher_android-release-5 /Users/iwomi/.pub-cache/hosted/pub.dev/url_launcher_android-6.0.37/android/src/release/res
+io.flutter.plugins.urllauncher.url_launcher_android-pngs-6 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/url_launcher_android/generated/res/pngs/release
+io.flutter.plugins.urllauncher.url_launcher_android-resValues-7 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/url_launcher_android/generated/res/resValues/release
+io.flutter.plugins.urllauncher.url_launcher_android-rs-8 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/url_launcher_android/generated/res/rs/release
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-9 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/url_launcher_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-10 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/url_launcher_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.urllauncher.url_launcher_android-merged_res-11 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/url_launcher_android/intermediates/merged_res/release

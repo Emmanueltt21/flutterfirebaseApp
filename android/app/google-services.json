@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932209267469",
+    "firebase_url": "https://epixrewards-6d16b-default-rtdb.firebaseio.com",
+    "project_id": "epixrewards-6d16b",
+    "storage_bucket": "epixrewards-6d16b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932209267469:android:3079c6578134bd354c5644",
+        "android_client_info": {
+          "package_name": "com.example.pay_with_flutter_wordpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932209267469-k16bi52b56q6q5u4evkfumhrm3upoasa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pay_with_flutter_wordpress",
+            "certificate_hash": "0af38274b6b58d29291e3eefe23bad0c768c356e"
+          }
+        },
+        {
+          "client_id": "932209267469-7a507ban1rrr15lgubtiq72debsrthap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxMD12Xup9HGQ6xVYRjdZfg3Q0-xjreSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932209267469-7a507ban1rrr15lgubtiq72debsrthap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

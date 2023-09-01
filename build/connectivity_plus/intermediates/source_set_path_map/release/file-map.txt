@@ -1,0 +1,12 @@
+dev.fluttercommunity.plus.connectivity.connectivity_plus-jetified-window-java-1.0.0-beta04-0 /Users/iwomi/.gradle/caches/transforms-3/4c3f9a3b498397c7cd2342d37c172fb5/transformed/jetified-window-java-1.0.0-beta04/res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-jetified-annotation-experimental-1.1.0-1 /Users/iwomi/.gradle/caches/transforms-3/94525a27a8a93494aad80754e9958e91/transformed/jetified-annotation-experimental-1.1.0/res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-jetified-window-1.0.0-beta04-2 /Users/iwomi/.gradle/caches/transforms-3/af1c7aadde0b4756d0438e5d0f67b503/transformed/jetified-window-1.0.0-beta04/res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-core-1.6.0-3 /Users/iwomi/.gradle/caches/transforms-3/d778d8a9c2d3c55e9107a56f76fbac1e/transformed/core-1.6.0/res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-main-4 /Users/iwomi/.pub-cache/hosted/pub.dev/connectivity_plus-3.0.6/android/src/main/res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-release-5 /Users/iwomi/.pub-cache/hosted/pub.dev/connectivity_plus-3.0.6/android/src/release/res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-pngs-6 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/connectivity_plus/generated/res/pngs/release
+dev.fluttercommunity.plus.connectivity.connectivity_plus-resValues-7 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/connectivity_plus/generated/res/resValues/release
+dev.fluttercommunity.plus.connectivity.connectivity_plus-rs-8 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/connectivity_plus/generated/res/rs/release
+dev.fluttercommunity.plus.connectivity.connectivity_plus-mergeReleaseResources-9 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/connectivity_plus/intermediates/incremental/release/mergeReleaseResources/merged.dir
+dev.fluttercommunity.plus.connectivity.connectivity_plus-mergeReleaseResources-10 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/connectivity_plus/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+dev.fluttercommunity.plus.connectivity.connectivity_plus-merged_res-11 /Users/iwomi/Documents/Projects21/pay_with_flutter_wordpress/build/connectivity_plus/intermediates/merged_res/release

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>932209267469-d6nr1gd9sta9em3vc0vc6i1qt4l5uqom.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.932209267469-d6nr1gd9sta9em3vc0vc6i1qt4l5uqom</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>932209267469-k16bi52b56q6q5u4evkfumhrm3upoasa.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQEFlF6kyv9cDg9pdt6gQSK-8VhmOv6GQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>932209267469</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.payWithFlutterWordpress</string>
+	<key>PROJECT_ID</key>
+	<string>epixrewards-6d16b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>epixrewards-6d16b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:932209267469:ios:3d5c101c4f1069d94c5644</string>
+	<key>DATABASE_URL</key>
+	<string>https://epixrewards-6d16b-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
